@@ -1,0 +1,5 @@
+/home/yboudjemai/M2IIA/DiagnosticEtPronostic/TEST_FROM_NET/AnimatedBox/build/CMakeFiles/rebuild_cache.dir
+/home/yboudjemai/M2IIA/DiagnosticEtPronostic/TEST_FROM_NET/AnimatedBox/build/CMakeFiles/edit_cache.dir
+/home/yboudjemai/M2IIA/DiagnosticEtPronostic/TEST_FROM_NET/AnimatedBox/build/CMakeFiles/integrated_main.dir
+/home/yboudjemai/M2IIA/DiagnosticEtPronostic/TEST_FROM_NET/AnimatedBox/build/CMakeFiles/independent_listener.dir
+/home/yboudjemai/M2IIA/DiagnosticEtPronostic/TEST_FROM_NET/AnimatedBox/build/CMakeFiles/animated_box.dir
